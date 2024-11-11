@@ -1,4 +1,4 @@
-# 2d-solar-system
+# 2D-Solar-System
 
 # Solar System Visualization: A 2D Dynamic Model of Planetary Orbits
 
@@ -15,29 +15,8 @@ The *Solar System Visualization* project simulates the orbits of the planets in 
 
 ## Requirements
 
-Before running this project, ensure you have the following dependencies installed:
-
 - Python 3.x
 - matplotlib
 - numpy
 - ipywidgets (for interactive controls)
 
-You can install the necessary libraries by running:
-
-pip install matplotlib numpy ipywidgets
-
-To run the solar system simulation:
-
-Clone this repository to your local machine:
-
-git clone https://github.com/yourusername/solar-system-visualization.git
-Navigate into the project directory:
-
-
-
-cd solar-system-visualization
-Run the script:
-
-
-python solar_system_simulation.py
-This will open a window with the visualization of the solar system. The planets will begin to orbit the Sun, and you can interact with the simulation.
